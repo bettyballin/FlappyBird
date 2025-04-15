@@ -11,7 +11,7 @@ Ein simples Spielprinzip, aber schwer zu meistern – genau wie du’s magst. �
 
 - 🕹️ Klassisches Flappy Bird Gameplay
 - 📱 Responsive Design – spielbar auf PC, Tablet & Smartphone
-- 🔥 Smooth Animationen mit `requestAnimationFrame`
+- 🔥 Smoothe Animationen mit `requestAnimationFrame`
 - 🐛 Einfacher Code zum Lernen & Hacken
 - 💾 Kein Server, kein Backend – nur Frontend Magie ✨
 
@@ -34,4 +34,4 @@ Oder lokal starten:
 ```bash
 git clone https://github.com/bettyballin/FlappyBird.git
 cd FlappyBird
-# Öffne index.html im Browser deiner Wahl
+# Öffne flappybird.html im Browser deiner Wahl
