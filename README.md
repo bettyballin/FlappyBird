@@ -3,7 +3,7 @@
 Willkommen zu **Flappy Bird im Browser** – dem süchtig machenden Klassiker, neu interpretiert mit HTML, CSS & JavaScript!  
 Ein simples Spielprinzip, aber schwer zu meistern – genau wie du’s magst. 💥
 
-![Flappy Bird]([https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif](https://github.com/user-attachments/assets/f805c3fb-3851-4cf5-bae0-9ae07c2559a7))
+![Flappy Bird](https://github.com/user-attachments/assets/50be58b0-5ea7-4e40-9c8f-d25c9caaad80)
 
 ---
 
