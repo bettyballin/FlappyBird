@@ -15,6 +15,13 @@ document.addEventListener('DOMContentLoaded', () => {
     let highScore = localStorage.getItem('flappyBirdHighScore') || 0;
     let gameState = 'start'; // start, playing, over
     
+    const params = new URLSearchParams(window.location.search);
+    const showButton = params.get('fromHomepage') === 'true';
+    const button = document.getElementById('backbutton');
+    if (showButton && button) {
+        button.style.display = 'block';
+    }
+
     // Bird object
     const bird = {
         x: 50,
